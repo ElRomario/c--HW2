@@ -1,0 +1,16 @@
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\StringArrayHW2.exe
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\StringArrayHW2.deps.json
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\StringArrayHW2.runtimeconfig.json
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\StringArrayHW2.runtimeconfig.dev.json
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\StringArrayHW2.dll
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\ref\StringArrayHW2.dll
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\bin\Debug\net5.0\StringArrayHW2.pdb
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.csproj.AssemblyReference.cache
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.AssemblyInfoInputs.cache
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.AssemblyInfo.cs
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.csproj.CoreCompileInputs.cache
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.dll
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\ref\StringArrayHW2.dll
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.pdb
+C:\Users\ElRomario\source\repos\StringArrayHW2\StringArrayHW2\obj\Debug\net5.0\StringArrayHW2.genruntimeconfig.cache
